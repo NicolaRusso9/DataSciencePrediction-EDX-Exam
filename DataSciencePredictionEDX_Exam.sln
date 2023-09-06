@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataSciencePredictionEDX_Exam", "DataSciencePredictionEDX_Exam\DataSciencePredictionEDX_Exam.pyproj", "{C44FB9C2-D40A-488C-900E-ACE836A0DB63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44FB9C2-D40A-488C-900E-ACE836A0DB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44FB9C2-D40A-488C-900E-ACE836A0DB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A319124-1948-43F9-88E4-B35A6FEA6314}
+	EndGlobalSection
+EndGlobal
